@@ -22,6 +22,7 @@ html, body {
     width: 100%;
 }
 
+
 body::-webkit-scrollbar {
     display: none;
 }
@@ -186,7 +187,7 @@ div.hero {
 }
 
 .card h3 {
-    margin-top: 60px;
+    margin-top: 200px;
     font-size: 3vw;
     color: black;
 }
